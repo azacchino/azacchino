@@ -2,10 +2,11 @@
 
 👋 I'm Andrés, 35, trying to be a good devops!
 
+<!--
 ![Andrés's Github stats](https://github-readme-stats.vercel.app/api?username=azacchino&show_icons=true&theme=dracula)
 
 I’m currently working on Frizata as DevOps
-
+-->
 ![Linkedin](https://www.linkedin.com/in/azacchino/)
 
 <!--
